@@ -1,0 +1,12 @@
+.gallery {
+  margin: 3em 0;
+}
+
+  .gallery__item {
+    margin-bottom: 2em;
+  }
+
+  .gallery__img {
+    width: 100%;
+    transition: .3s;
+  }

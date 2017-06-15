@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: white;
+  font-family: 'Bevan', cursive;
+}
+
+img {
+  vertical-align: bottom;
+  max-width: 100%;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  width: 900px;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
